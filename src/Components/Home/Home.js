@@ -21,7 +21,7 @@ const Home = () => {
 					<div className="container">
 						<div className="row justify-content-center">
 							<div className="col-xl-12 col-lg-12 col-md-12">
-								<h1 className="big-header-capt mb-0 text-light">Search Your Next Home</h1>
+								<h1 className="big-header-capt mb-0 text-light">Search Your Next Home in Azown</h1>
 								<p className="text-center mb-4 text-light">Find new &amp; featured property located in your local city.</p>
 							</div>
 						</div>
